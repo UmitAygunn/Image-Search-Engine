@@ -1,4 +1,4 @@
-const accessKey = "Your personal key";
+const accessKey = "jdY-r3pnxztADBVmjFloK6JRJ3aQ_w7bk7NGojEriHQ";
 const searchForm = document.getElementById("search-form");
 const searchBox = document.getElementById("search-box");
 const searchResult = document.getElementById("search-result");
